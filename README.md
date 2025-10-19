@@ -52,7 +52,7 @@
 
 | Task | Description |
 |:------|:------------|
-| 🧩 **Midterm Paired Task 1** | OO Analysis |
+| 🧩 **Midterm Paired Task 1 OO Analysis** | https://docs.google.com/document/d/1tyLo0LDeVep8DiGJAr316fSV-XSAYPxwr84u4ToG8bU/edit?usp=drivesdk
 | 💻 **Midterm Lab Task 1** | Python Fundamentals |
 | 🤝 **Practice Task Paired** | Collaboration Activity |
 | 🧮 **Part 2 Hands-On Program** | Python Application |

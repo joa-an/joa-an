@@ -52,9 +52,9 @@
 
 | Task | Description |
 |:------|:------------|
-| 🧩 **Midterm Paired Task 1 OO Analysis** | https://docs.google.com/document/d/1tyLo0LDeVep8DiGJAr316fSV-XSAYPxwr84u4ToG8bU/edit?usp=drivesdk
-| 💻 **Midterm Lab Task 1** | Python Fundamentals |
-| 🤝 **Practice Task Paired** | Collaboration Activity |
+| 🧩 **Midterm Paired Task 1 OO Analysis** | https://docs.google.com/document/d/19QvlrR-Bgf138JH_ckqihLG_PESSmMkC/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true
+| 💻 **Midterm Lab Task 1 Python Fundamentals** | https://docs.google.com/document/d/1tyLo0LDeVep8DiGJAr316fSV-XSAYPxwr84u4ToG8bU/edit?usp=drivesdk
+| 🤝 **Practice Task Paired Collaboration Activity** | https://drive.google.com/file/d/1FpZbJgRTPYRNB5naWlkuiqX5o5Uj67Tk/view?usp=drivesdk
 | 🧮 **Part 2 Hands-On Program** | Python Application |
 | 🧰 **Practice Task 2** | Using Collections |
 | 🛍️ **Practice Task 3** | Shopping Cart |

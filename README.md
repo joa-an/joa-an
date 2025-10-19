@@ -1,84 +1,21 @@
-<!-- 🚀 Futuristic & Elegant GitHub Portfolio README for Johanna Ocares Olmedo -->
+  # 💫 About Me:
+hi! I'm Johanna Ocares Olmedo, currently 18 years old, I was born on November 26, 2006.<br>I'm currently a college student in City College of Angeles  pursuing the course of Associate in Computer Technology (ACT).<br>I also have interest to learned different languages and  sign language. <br> <br><br>Background Education<br>Northville 15 Integrated School <br>Senior Highschool <br>Strand: Accountancy, Business and Management (S.Y 2024)<br><br>Northville 15 Integrated School <br>Junior Highschool ( batch 2022 )<br><br>Northville 15 Integrated School <br>Elementary ( S.Y 2017-2018 )<br><br>Learning<br>C language, Java, python<br><br>Fun Facts About Me <br>I like watching K-drama, listen to music, reading manwha, manhua<br><br>Midterm Activity<br><br><br><br><br><br><br><br><br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=👋+Hi!+I'm+Johanna+Ocares+Olmedo;💻+Future+Technologist;🚀+Welcome+to+My+3D+Digital+Portfolio!" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://github.com/klaasnicolaas/klaasnicolaas/blob/main/src/grid-snake.svg" width="100%" alt="3D Grid Animation" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Johanna Ocares) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jo.hhx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gg_jxx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jolmedo24-1609@cca.edu.ph) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joa-an&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=joa-an&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joa-an&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌌 About Me
-> “Futuristic mind with an elegant vision — learning, creating, and exploring the digital world.”
-
-- 👧 **Name:** Johanna Ocares Olmedo  
-- 🎂 **Age:** 18 years old  
-- 📅 **Birthdate:** November 26, 2006  
-- 🏫 **College:** City College of Angeles  
-  - 🎓 *Associate in Computer Technology*  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=joa-an&icon=9&color=12)](https://visitcount.itsvg.in)
 
-### 🎓 Educational Background
-
-| Level | School | Details |
-|:------|:--------|:--------|
-| 🧠 **Senior High School** | Northville 15 Integrated School | Strand: Accountancy, Business, and Management (S.Y. 2024) |
-| 📘 **Junior High School** | Northville 15 Integrated School | Batch 2022 |
-| 📚 **Elementary** | Northville 15 Integrated School | S.Y. 2017 - 2018 |
-
----
-
-### 💡 Interests
-> “I love learning languages and sign language to connect with more people and explore myself.”
-
-- 🌍 Learning different languages  
-- 👐 Learning sign language  
-- 💫 Exploring creativity through culture and tech  
-
----
-
-### 🎧 Fun Facts About Me
-- 🎬 I love watching **K-dramas**  
-- 🎶 I enjoy **listening to music**  
-- 🎥 I love making **TikToks**  
-- 🧭 I enjoy **adventures** that make me happy  
-
----
-
-### 📂 Midterm Activity
-
-| Task | Description |
-|:------|:------------|
-| 🧩 **Midterm Paired Task 1 OO Analysis** | https://docs.google.com/document/d/19QvlrR-Bgf138JH_ckqihLG_PESSmMkC/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true
-| 💻 **Midterm Lab Task 1 Python Fundamentals** | https://docs.google.com/document/d/1tyLo0LDeVep8DiGJAr316fSV-XSAYPxwr84u4ToG8bU/edit?usp=drivesdk
-| 🤝 **Practice Task Paired Collaboration Activity** | https://drive.google.com/file/d/1FpZbJgRTPYRNB5naWlkuiqX5o5Uj67Tk/view?usp=drivesdk
-| 🧮 **Part 2 Hands-On Program** | Python Application |
-| 🧰 **Practice Task 2** | Using Collections |
-| 🛍️ **Practice Task 3** | Shopping Cart |
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:jolmedo24-1609@cca.edu.ph"><img src="https://img.shields.io/badge/Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/Johanna%20Ocares"><img src="https://img.shields.io/badge/Facebook-0078FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/jo.hhx"><img src="https://img.shields.io/badge/Instagram-D63384?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ 3D & Futuristic Vibes
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/public/matrix.svg" alt="Matrix Animation" width="100%">
-</p>
-
----
-
-### 🧠 Currently Learning
-```text
-🖥️ Python & Object-Oriented Programming
-🧩 Logical thinking and problem solving
-🎨 Designing creative, tech-inspired interfaces
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

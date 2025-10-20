@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="700" style="position:absolute; opacity:0.25; z-index:-1;" alt="Rainbow Animation Background"/>
 </p>
@@ -45,27 +46,17 @@
 ## 🛠️ Projects
 
 <p align="center">
-  <a href="https://github.com/joa-an/Midterm-Paired-Task-1" target="_blank">
-    <img src="https://img.shields.io/badge/Midterm%20Paired%20Task%201-OO%20Analysis-ff6ec7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=ffb6c1" alt="Midterm Task 1">
-  </a>
-  <a href="https://github.com/joa-an/Midterm-Lab-Task-1" target="_blank">
-    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white&labelColor=90ee90" alt="Midterm Lab Task 1">
-  </a>
-  <a href="https://github.com/joa-an/Practice-Task-Paired" target="_blank">
-    <img src="https://img.shields.io/badge/Practice%20Task%20Paired-Java-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
-  </a>
-  <a href="https://github.com/joa-an/Part-2-Hands-On" target="_blank">
-    <img src="https://img.shields.io/badge/Part%202-Hands-On%20Program-8a2be2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=d8bff7" alt="Part 2 Hands-On">
-  </a>
-  <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">
-    <img src="https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white&labelColor=ff85c1" alt="Practice Task 2">
-  </a>
-  <a href="https://github.com/joa-an/Practice-Task-3" target="_blank">
-    <img src="https://img.shields.io/badge/Practice%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
-  </a>
+  
+  [![Midterm Lab Task 1](https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joa-an/Midterm-Lab-Task-1)
+  
+  [![Practice Task Paired](https://img.shields.io/badge/Practice%20Task%20Paired-Java-ffb84d?style=for-the-badge&logo=java&logoColor=white)](https://github.com/joa-an/Practice-Task-Paired)
+  
+  [![Part 2 Hands-On Program](https://img.shields.io/badge/Part%202-Hands--On%20Program-8a2be2?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/joa-an/Part-2-Hands-On)
+  
+  [![Practice Task 2](https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white)](https://github.com/joa-an/Practice-Task-2)
+  
+  [![Practice Task 3](https://img.shields.io/badge/Practice%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/joa-an/Practice-Task-3)
 </p>
-
-> 🔗 **Tip:** Replace each `href` link with your **actual project repository URL** if different.
 
 ---
 

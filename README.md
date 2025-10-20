@@ -1,12 +1,12 @@
-
-
-
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=ff69b5,ff8c00,00ff00,00ffff,ff00ff&center=true&vCenter=true&width=700&lines=👋+안녕하세요!;+Hello+There,+I'm+Johanna+Olmedo;+Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=👋+안녕하세요!;Hello+There,+I'm+Johanna+Olmedo;Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
 </p>
+
+
+
+
+
+
 
 ---
 

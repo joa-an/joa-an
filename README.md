@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="700" style="position:absolute; opacity:0.25; z-index:-1;" alt="Rainbow Animation Background"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=ff69b4,ff8c00,00ff00,00ffff,ff00ff&center=true&vCenter=true&width=700&lines=👋+안녕하세요!+Hello+There,+I'm+Johanna+Olmedo;+Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
 </p>
 
@@ -27,6 +31,12 @@
 <p align="center">
   <strong style="color:#ff4500;">🚀 Goal:</strong> To become successful in the future
 </p>
+
+
+
+
+
+
 
 
 
@@ -60,7 +70,16 @@
 ---
 
 ## 💬 Quote
-*"You can do it"* 💖
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Inspiration%20✨-\"You%20can%20do%20it\"-ff69b4?style=for-the-badge&logo=stars&logoColor=white" alt="Quote">
+</p>
+
+<p align="center">
+  <strong style="background: linear-gradient(90deg, #ff69b4, #ff8c00, #00ff00, #00ffff, #ff00ff); -webkit-background-clip: text; color: transparent; font-size:1.3em;">
+    🌟 "You can do it" 💖
+  </strong>
+</p>
 
 ---
 

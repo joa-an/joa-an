@@ -1,8 +1,10 @@
-<!-- 🌸 Cute Pastel Animated GitHub Profile by Johanna Olmedo 🌸 -->
 
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=F4BBD0&center=true&vCenter=true&width=600&lines=안녕하세요!+👋;Hello+There!+I'm+Johanna+Olmedo+💖;Welcome+to+My+GitHub+Profile!+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=A41F13&center=true&vCenter=true&width=600&lines=안녕하세요!!+;Hello+There,+I'm+Johanna!+;Welcome+to+my+GitHub+Profile!+✨" alt="Animated Header" />
 </h1>
+
+
 
 ---
 

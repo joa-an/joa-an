@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="700" style="position:absolute; opacity:0.25; z-index:-1;" alt="Rainbow Animation Background"/>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=ff69b4,ff8c00,00ff00,00ffff,ff00ff&center=true&vCenter=true&width=700&lines=👋+안녕하세요!+Hello+There,+I'm+Johanna+Olmedo;+Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
 </p>
@@ -10,67 +5,50 @@
 ---
 
 ## 👩 About Me
+Hi! I'm **Johanna Olmedo**, a college student at **City College of Angeles**, pursuing an **Associate in Computer Technology**.  
+I am passionate about **web development**, learning programming languages, and improving my coding skills.  
 
-<p align="center">
-  <strong style="color:#ff69b4;">💖 Name:</strong> Johanna Olmedo<br>
-  <strong style="color:#6a5acd;">🎓 College:</strong> City College of Angeles<br>
-  <strong style="color:#20b2aa;">📚 Course:</strong> Associate in Computer Technology
-</p>
+**Currently Learning:**  
+- C Language  
+- Java  
+- Python  
+- MySQL  
 
-<p align="center">
-  <strong style="color:#00599C;">💻 Currently Learning:</strong><br>
-  <span style="background: linear-gradient(90deg, #00599C, #ED8B00, #3776AB, #4479A1); -webkit-background-clip: text; color: transparent;">
-  C Language | Java | Python | MySQL
-  </span>
-</p>
+**Fun Facts:**  
+- I love watching **K-dramas**  
+- I enjoy **adventurous activities**  
 
-<p align="center">
-  <strong style="color:#ff69b4;">🎬 Fun Fact:</strong> I love watching K-dramas<br>
-  <strong style="color:#00ced1;">🌄 Adventure:</strong> I enjoy adventurous activities
-</p>
-
-<p align="center">
-  <strong style="color:#ff4500;">🚀 Goal:</strong> To become successful in the future
-</p>
-
-
-
-
-
-
-
-
+**Goal:** To become successful in the future 🚀
 
 ---
 
 ## 🛠️ Projects
 
 <p align="center">
-  
-  [![Midterm Lab Task 1](https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joa-an/Midterm-Lab-Task-1)
-  
-  [![Practice Task Paired](https://img.shields.io/badge/Practice%20Task%20Paired-Java-ffb84d?style=for-the-badge&logo=java&logoColor=white)](https://github.com/joa-an/Practice-Task-Paired)
-  
-  [![Part 2 Hands-On Program](https://img.shields.io/badge/Part%202-Hands--On%20Program-8a2be2?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/joa-an/Part-2-Hands-On)
-  
-  [![Practice Task 2](https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white)](https://github.com/joa-an/Practice-Task-2)
-  
-  [![Practice Task 3](https://img.shields.io/badge/Practice%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/joa-an/Practice-Task-3)
+  <a href="https://github.com/joa-an/Midterm-Paired-Task-1" target="_blank">
+    <img src="https://img.shields.io/badge/Midterm%20Paired%20Task%201-OO%20Analysis-ff6ec7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=ffb6c1" alt="Midterm Task 1">
+  </a>
+  <a href="https://github.com/joa-an/Midterm-Lab-Task-1" target="_blank">
+    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white&labelColor=90ee90" alt="Midterm Lab Task 1">
+  </a>
+  <a href="https://github.com/joa-an/Practice-Task-Paired" target="_blank">
+    <img src="https://img.shields.io/badge/Practice%20Task%20Paired-Java-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
+  </a>
+  <a href="https://github.com/joa-an/Part-2-Hands-On" target="_blank">
+    <img src="https://img.shields.io/badge/Part%202-Hands--On%20Program-9b59b6?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=d8b4ff" alt="Part 2 Hands-On">
+  </a>
+  <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">
+    <img src="https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white&labelColor=ff85c1" alt="Practice Task 2">
+  </a>
+  <a href="https://github.com/joa-an/Practice-Task-3" target="_blank">
+    <img src="https://img.shields.io/badge/Practice%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
+  </a>
 </p>
 
 ---
 
 ## 💬 Quote
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✨%20Inspiration%20✨-\"You%20can%20do%20it\"-ff69b4?style=for-the-badge&logo=stars&logoColor=white" alt="Quote">
-</p>
-
-<p align="center">
-  <strong style="background: linear-gradient(90deg, #ff69b4, #ff8c00, #00ff00, #00ffff, #ff00ff); -webkit-background-clip: text; color: transparent; font-size:1.3em;">
-    🌟 "You can do it" 💖
-  </strong>
-</p>
+*"You can do it"* 💖
 
 ---
 
@@ -84,31 +62,12 @@
 
 ---
 
-
 ## 🖥️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&animation=glitch" alt="C">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&animation=glitch" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glitch" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=glitch" alt="MySQL">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glitch" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=glitch" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glitch" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&animation=glitch" alt="React">
-</p>
-
-
-
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joa-an&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joa-an&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ---

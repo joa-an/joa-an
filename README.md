@@ -1,11 +1,17 @@
+
+
+
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=ff69b4,ff8c00,00ff00,00ffff,ff00ff&center=true&vCenter=true&width=700&lines=👋+안녕하세요!+Hello+There,+I'm+Johanna+Olmedo;+Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&color=ff69b5,ff8c00,00ff00,00ffff,ff00ff&center=true&vCenter=true&width=700&lines=👋+안녕하세요!;+Hello+There,+I'm+Johanna+Olmedo;+Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
 </p>
 
 ---
 
 ## 👩 About Me
-Hi! I'm **Johanna Olmedo**, a college student at **City College of Angeles**, pursuing an **Associate in Computer Technology**.  
+I'm a college student at **City College of Angeles**, pursuing an **Associate in Computer Technology**.  
 I am passionate about **web development**, learning programming languages, and improving my coding skills.  
 
 **Currently Learning:**  

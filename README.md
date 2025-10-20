@@ -6,8 +6,7 @@
 
 ---
 
-### 🌷 About Me  
-안녕하세요! (Annyeonghaseyo!)  
+### 🌷 About Me   
 I'm **Johanna Olmedo**, 18 years old (born on November 26, 2006).  
 Currently a **college student at City College of Angeles**, pursuing **Associate in Computer Technology**.  
 

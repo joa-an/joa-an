@@ -1,3 +1,18 @@
+<!-- 🌸 Animated Header GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joa-an/joa-an/main/johanna-header.gif" width="800" alt="Johanna Animated Header"/>
+</p>
+
+<h1 align="center">✨ 안녕하세요! 👋</h1>
+
+<h3 align="center">Hello There, I'm Johanna! 💜</h3>
+
+<p align="center">
+  <b>Welcome to my GitHub Profile 💻</b>
+</p>
+
+
+
 
 <!-- Animated Header -->
 <h1 align="center">

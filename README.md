@@ -31,7 +31,7 @@ I am passionate about **web development**, learning programming languages, and i
 ## 🛠️ Projects
 
 <p align="center">
-  <a href="https://github.com/joa-an/Midterm-Paired-Task-1" target="_blank">
+  <a href="https://docs.google.com/document/d/19QvlrR-Bgf138JH_ckqihLG_PESSmMkC/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Paired%20Task%201-OO%20Analysis-ff6ec7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=ffb6c1" alt="Midterm Task 1">
   </a>
   <a href="https://github.com/joa-an/Midterm-Lab-Task-1" target="_blank">

@@ -47,7 +47,7 @@ To become successful in the future 🚀
   <a href="https://docs.google.com/document/d/19QvlrR-Bgf138JH_ckqihLG_PESSmMkC/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Paired%20Task%201-OO%20Analysis-ff6ec7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=ffb6c1" alt="Midterm Task 1">
   </a>
-  <a href="https://github.com/joa-an/Midterm-Lab-Task-1" target="_blank">
+  <a href="https://docs.google.com/document/d/1YERtf7hYHV8QGPnRNhrBctQzYCLSypk3gDi5CL3vsWE/edit?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white&labelColor=90ee90" alt="Midterm Lab Task 1">
   </a>
   <a href="https://github.com/joa-an/Practice-Task-Paired" target="_blank">

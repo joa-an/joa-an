@@ -53,7 +53,7 @@ To become successful in the future 🚀
   <a href="https://github.com/joa-an/Practice-Task-Paired" target="_blank">
     <img src="https://img.shields.io/badge/Practice%20Task%20Paired-Java-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
   </a>
-  <a href="https://github.com/joa-an/Part-2-Hands-On" target="_blank">
+  <a href="https://docs.google.com/document/d/1YERtf7hYHV8QGPnRNhrBctQzYCLSypk3gDi5CL3vsWE/edit?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Part%202-Hands--On%20Program-9b59b6?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=d8b4ff" alt="Part 2 Hands-On">
   </a>
   <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">

@@ -1,30 +1,43 @@
+
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=👋+안녕하세요!;Hello+There,+I'm+Johanna+Olmedo;Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Johanna+Olmedo;Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
 </p>
-
-
-
-
-
-
 
 ---
 
-## 👩 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f91,50:ff9671,100:ffc75f&height=120&section=header"/>
+</p>
+
+## 👩 About Me  
 I'm a college student at **City College of Angeles**, pursuing an **Associate in Computer Technology**.  
 I am passionate about **web development**, learning programming languages, and improving my coding skills.  
 
-**Currently Learning:**  
-- C Language  
-- Java  
-- Python  
-- MySQL  
+---
 
-**Fun Facts:**  
-- I love watching **K-dramas**  
-- I enjoy **adventurous activities**  
+### 🔥 **Currently Learning:**  
+- 💻 C Language  
+- ☕ Java  
+- 🐍 Python  
+- 🗃️ MySQL  
 
-**Goal:** To become successful in the future 🚀
+---
+
+### 🌟 **Fun Facts:**  
+- 🎬 I love watching **K-dramas**  
+- 🌍 I enjoy **adventurous activities**  
+
+---
+
+### 🎯 **Goal:**  
+To become successful in the future 🚀  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc75f,50:ff9671,100:ff6f91&height=120&section=footer"/>
+</p>
 
 ---
 

@@ -129,7 +129,7 @@ To become successful in the future 🚀
   <a href="https://docs.google.com/document/d/1q-XG5Y0TQ60uCarmwL9XIjsTUEjEMvL0fIvB55ag6ok/edit?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%202-Creating%20Functions-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
   </a>
-  <a href="https://docs.google.com/document/d/1FJv_pi3gcrjvDPRe703b_DD-KF7VH9n2fl96THEMEt0/edit?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/17hIJhM9HKdxpZkPj-pIMOt-ybqgseB5G/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Part%202-Hands--On%20Program-9b59b6?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=d8b4ff" alt="Part 2 Hands-On">
   </a>
   <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">

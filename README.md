@@ -65,16 +65,6 @@ To become successful in the future 🚀
 
 ---
 
-## 📫 Contact Me
-<p align="center">
-  <a href="mailto:ocaresjohanna@gmail.com"><img src="https://img.shields.io/badge/Email-ocaresjohanna@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/JohannaOcares" target="_blank"><img src="https://img.shields.io/badge/Facebook-JohannaOcares-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/jo.hhx" target="_blank"><img src="https://img.shields.io/badge/Instagram-jo.hhx-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/joa-an" target="_blank"><img src="https://img.shields.io/badge/GitHub-joa--an-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
 ## 🖥️ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -85,6 +75,15 @@ To become successful in the future 🚀
 
 ---
 
+
+## 📫 Contact Me
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400" alt="Animated coding GIF"/>
+  <a href="mailto:ocaresjohanna@gmail.com"><img src="https://img.shields.io/badge/Email-ocaresjohanna@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/JohannaOcares" target="_blank"><img src="https://img.shields.io/badge/Facebook-JohannaOcares-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/jo.hhx" target="_blank"><img src="https://img.shields.io/badge/Instagram-jo.hhx-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/joa-an" target="_blank"><img src="https://img.shields.io/badge/GitHub-joa--an-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+

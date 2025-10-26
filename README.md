@@ -38,16 +38,16 @@ To become successful in the future 🚀
 
 <p align="center">
   <a href="https://docs.google.com/document/d/1YERtf7hYHV8QGPnRNhrBctQzYCLSypk3gDi5CL3vsWE/edit?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white&labelColor=90ee90" alt="Midterm Lab Task 1">
+    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-f9b7ff?style=for-the-badge&logo=python&logoColor=white&labelColor=fec8d8" alt="Midterm Lab Task 1">
   </a>
   <a href="https://docs.google.com/document/d/17z-aETKx2KFEIf3U-erKE5rM0-JhguRS/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
-    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%202-Creating%20Functions-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
+    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%202-Creating%20Functions-ffd6a5?style=for-the-badge&logo=java&logoColor=white&labelColor=ffb6b9" alt="Practice Task Paired">
   </a>
-  <a 
-  href="https://docs.google.com/document/d/1cP9uFZMGgbNEkXx6i0qp8qgo9Yh2dyjd/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
-    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
+  <a href="https://docs.google.com/document/d/1cP9uFZMGgbNEkXx6i0qp8qgo9Yh2dyjd/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%203-Shopping%20Cart-caffbf?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=a0e7e5" alt="Practice Task 3">
   </a>
 </p>
+
 
 ---
 

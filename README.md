@@ -6,7 +6,7 @@
   </a>
   <br>
   <sub>
-    🌷 <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    🌷 <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Problem Statement<https://docs.google.com/document/d/1bRfLVkRtA2qwSf6BGOMG4Q4qm5NJ1EdO/edit?usp=drivesdk> • 
     <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Source Code</a> • 
     <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Sample Output</a>
   </sub>

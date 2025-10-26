@@ -70,7 +70,7 @@ To become successful in the future ✨
 *"You can do it"* 💖
 
 <p align= "left">
-  <img src="https://github.com/joa-an/joa-an/blob/a458b2ff2b8f10975ef24e6269322987be8fce74/dare-aggie-bunny-dare-bunny.gif" width="200" />
+  <img src="https://github.com/joa-an/joa-an/blob/928f6feb51c6865963edbf873b7b83a437825e0b/dare-aggie-dare-aggie-bunny%20(1).gif" width="200" />
 </p>
 
 ---

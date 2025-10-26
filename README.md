@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="https://github.com/joa-an/joa-an/blob/7e2026fb25993a87640c77cd86bd3a2f6858d3cb/giphy.gif" alt="Cute GIF" width="500"/>
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joa-an/joa-an/main/dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
-</p>
+<img src="dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
 
 
 <p align="center">

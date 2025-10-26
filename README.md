@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Johanna+Olmedo;Welcome+to+my+GitHub+account+🚀" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Johanna+Olmedo;Welcome+to+my+GitHub+account+✨" alt="Animated Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ I find it interesting to explore how simple ideas can turn into useful applicati
 ---
 
 ### 🎯 **Goal:**  
-To become successful in the future 🚀  
+To become successful in the future ✨  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc75f,50:ff9671,100:ff6f91&height=120&section=footer"/>

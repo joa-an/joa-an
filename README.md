@@ -64,14 +64,14 @@ To become successful in the future ✨
 </h4>
 
 
-<p align="right side">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
-</p>
-
 ---
 
 ## 💬 Quote
 *"You can do it"* 💖
+
+<p align= "left">
+  <img src="https://github.com/joa-an/joa-an/blob/a458b2ff2b8f10975ef24e6269322987be8fce74/dare-aggie-bunny-dare-bunny.gif" width="200" />
+</p>
 
 ---
 

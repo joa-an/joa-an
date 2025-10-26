@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joa-an/joa-an/main/dare-aggie-dare-aggie-bunny.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/joa-an/joa-an/main/dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Johanna+Olmedo;Welcome+to+my+GitHub+account+✨" alt="Animated Typing SVG" />

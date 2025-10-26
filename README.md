@@ -1,5 +1,5 @@
-<p align="right side">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+<p align="center">
+  <img src="https://github.com/joa-an/joa-an/blob/34ea2fcc74805a555983883aa467a66f2e7e56e9/5396c2561c99075688c061fb7f8354c5.gif" width="300" />
 </p>
 
 

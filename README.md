@@ -53,7 +53,7 @@ To become successful in the future 🚀
   <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">
     <img src="https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white&labelColor=ff85c1" alt="Practice Task 2">
   </a>
-  <a href="https://github.com/joa-an/Practice-Task-3" target="_blank">
+  <a href="https://drive.google.com/file/d/1_taI4S_tWyhZIN6lHzsx5XCrDAtFeOGT/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Practice%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
   </a>
 </p>

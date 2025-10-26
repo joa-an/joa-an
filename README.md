@@ -1,3 +1,13 @@
+<p align="right side">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+</p>
+
+
+
+
+
+
+
 
 ![Cute Pastel Cat](https://github.com/joa-an/joa-an/blob/6f7bb28ecd0595f7fbd2dc0e5f2e56aa0d394623/file_00000000da486208bbb676daf0b9dd42.png)
 

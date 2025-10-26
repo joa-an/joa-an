@@ -38,7 +38,7 @@ To become successful in the future 🚀
 ## 🛠️ Projects
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/19QvlrR-Bgf138JH_ckqihLG_PESSmMkC/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1bRfLVkRtA2qwSf6BGOMG4Q4qm5NJ1EdO/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Paired%20Task%201-OO%20Analysis-ff6ec7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=ffb6c1" alt="Midterm Task 1">
   </a>
   <a href="https://docs.google.com/document/d/1YERtf7hYHV8QGPnRNhrBctQzYCLSypk3gDi5CL3vsWE/edit?usp=drivesdk" target="_blank">

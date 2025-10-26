@@ -1,15 +1,7 @@
 <p align="center">
-  <img src="https://github.com/joa-an/joa-an/blob/34ea2fcc74805a555983883aa467a66f2e7e56e9/5396c2561c99075688c061fb7f8354c5.gif" width="300" />
+  <img src="https://github.com/joa-an/joa-an/blob/8960165c86b96a775f3efa76060b249b113c6a6f/dare-aggie-dare-aggie-bunny.gif" width="500" />
 </p>
 
-
-
-
-
-
-
-
-![Cute Pastel Cat](https://github.com/joa-an/joa-an/blob/6f7bb28ecd0595f7fbd2dc0e5f2e56aa0d394623/file_00000000da486208bbb676daf0b9dd42.png)
 
 
 <p align="center">

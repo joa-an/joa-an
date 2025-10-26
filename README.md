@@ -48,6 +48,15 @@ To become successful in the future ✨
   </a>
 </p>
 
+<h4 align="center">
+  <span style="background: linear-gradient(90deg, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-family: 'Poppins', sans-serif;
+               font-weight: 600;">
+    🌟 STAY TUNED FOR UPCOMING PROJECTS!! 🌟
+  </span>
+</h4>
 
 ---
 

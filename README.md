@@ -43,13 +43,8 @@ To become successful in the future 🚀
   <a href="https://docs.google.com/document/d/17z-aETKx2KFEIf3U-erKE5rM0-JhguRS/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%202-Creating%20Functions-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
   </a>
-  <a href="https://drive.google.com/file/d/17hIJhM9HKdxpZkPj-pIMOt-ybqgseB5G/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Part%202-Hands--On%20Program-9b59b6?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=d8b4ff" alt="Part 2 Hands-On">
-  </a>
-  <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">
-    <img src="https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white&labelColor=ff85c1" alt="Practice Task 2">
-  </a>
-  <a href="https://drive.google.com/file/d/1_taI4S_tWyhZIN6lHzsx5XCrDAtFeOGT/view?usp=drivesdk" target="_blank">
+  <a 
+  href="https://drive.google.com/file/d/1_taI4S_tWyhZIN6lHzsx5XCrDAtFeOGT/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
   </a>
 </p>

@@ -1,3 +1,85 @@
+<div align="center">
+
+  <!-- 🌸 Midterm Paired Task 1 -->
+  <a href="https://docs.google.com/document/d/1bRfLVkRtA2qwSf6BGOMG4Q4qm5NJ1EdO/edit?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Midterm%20Paired%20Task%201-OO%20Analysis-ff6ec7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=ffb6c1" alt="Midterm Task 1">
+  </a>
+  <br>
+  <sub>
+    🌷 <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Source Code</a> • 
+    <a href="#" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Sample Output</a>
+  </sub>
+  <br><br>
+
+  <!-- 💚 Midterm Lab Task 1 -->
+  <a href="https://docs.google.com/document/d/1YERtf7hYHV8QGPnRNhrBctQzYCLSypk3gDi5CL3vsWE/edit?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%201-Python%20Fundamentals-6eff6e?style=for-the-badge&logo=python&logoColor=white&labelColor=90ee90" alt="Midterm Lab Task 1">
+  </a>
+  <br>
+  <sub>
+    🐍 <a href="#" style="color:#32cd32; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="#" style="color:#32cd32; text-decoration:none; font-weight:bold;">Source Code</a> • 
+    <a href="#" style="color:#32cd32; text-decoration:none; font-weight:bold;">Sample Output</a>
+  </sub>
+  <br><br>
+
+  <!-- 🌼 Midterm Lab Task 2 -->
+  <a href="https://docs.google.com/document/d/1q-XG5Y0TQ60uCarmwL9XIjsTUEjEMvL0fIvB55ag6ok/edit?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%202-Creating%20Functions-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Midterm Lab Task 2">
+  </a>
+  <br>
+  <sub>
+    ☕ <a href="#" style="color:#ffb84d; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="#" style="color:#ffb84d; text-decoration:none; font-weight:bold;">Source Code</a> • 
+    <a href="#" style="color:#ffb84d; text-decoration:none; font-weight:bold;">Sample Output</a>
+  </sub>
+  <br><br>
+
+  <!-- 💜 Part 2 Hands-On Program -->
+  <a href="https://docs.google.com/document/d/1FJv_pi3gcrjvDPRe703b_DD-KF7VH9n2fl96THEMEt0/edit?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Part%202-Hands--On%20Program-9b59b6?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=d8b4ff" alt="Part 2 Hands-On">
+  </a>
+  <br>
+  <sub>
+    💻 <a href="#" style="color:#ba68c8; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="#" style="color:#ba68c8; text-decoration:none; font-weight:bold;">Source Code</a> • 
+    <a href="#" style="color:#ba68c8; text-decoration:none; font-weight:bold;">Sample Output</a>
+  </sub>
+  <br><br>
+
+  <!-- 💗 Practice Task 2 -->
+  <a href="https://github.com/joa-an/Practice-Task-2" target="_blank">
+    <img src="https://img.shields.io/badge/Practice%20Task%202-Collections-ff4da6?style=for-the-badge&logo=database&logoColor=white&labelColor=ff85c1" alt="Practice Task 2">
+  </a>
+  <br>
+  <sub>
+    📚 <a href="#" style="color:#ff4da6; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="#" style="color:#ff4da6; text-decoration:none; font-weight:bold;">Source Code</a> • 
+    <a href="#" style="color:#ff4da6; text-decoration:none; font-weight:bold;">Sample Output</a>
+  </sub>
+  <br><br>
+
+  <!-- 🛒 Practice Task 3 -->
+  <a href="https://drive.google.com/file/d/1_taI4S_tWyhZIN6lHzsx5XCrDAtFeOGT/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Practice%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
+  </a>
+  <br>
+  <sub>
+    🛍️ <a href="#" style="color:#ffd44d; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="#" style="color:#ffd44d; text-decoration:none; font-weight:bold;">Source Code</a> • 
+    <a href="#" style="color:#ffd44d; text-decoration:none; font-weight:bold;">Sample Output</a>
+  </sub>
+
+</div>
+
+
+
+
+
+
+
+
 
 
 <p align="center">

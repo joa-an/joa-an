@@ -44,7 +44,7 @@ To become successful in the future 🚀
     <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%202-Creating%20Functions-ffb84d?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd27f" alt="Practice Task Paired">
   </a>
   <a 
-  href="https://drive.google.com/file/d/1_taI4S_tWyhZIN6lHzsx5XCrDAtFeOGT/view?usp=drivesdk" target="_blank">
+  href="https://docs.google.com/document/d/1cP9uFZMGgbNEkXx6i0qp8qgo9Yh2dyjd/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Midterm%20Lab%20Task%203-Shopping%20Cart-ffd44d?style=for-the-badge&logo=shopping-cart&logoColor=white&labelColor=ffe599" alt="Practice Task 3">
   </a>
 </p>

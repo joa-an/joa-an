@@ -5,7 +5,7 @@
   <br>
   <sub>
     🌷 
-    <a href="https://docs.google.com/document/d/1bRfLVkRtA2qwSf6BGOMG4Q4qm5NJ1EdO/edit?usp=drivesdk" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
+    <a href="https://docs.google.com/document/d/1sMwqfJsXY1bxL6cOY0qK2pyR1g0WInCW/edit?usp=drivesdk&ouid=110997899620812747796&rtpof=true&sd=true" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Problem Statement</a> • 
     <a href="https://github.com/joa-an/Midterm-Paired-Task-1" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Source Code</a> • 
     <a href="https://drive.google.com/file/d/1sAMPLEoutputEXAMPLE1/view?usp=drivesdk" style="color:#ff69b4; text-decoration:none; font-weight:bold;">Sample Output</a>
   </sub>

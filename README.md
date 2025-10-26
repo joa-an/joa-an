@@ -1,5 +1,5 @@
 
-![Cute Pastel Cat](PASTE-YOUR-STICKER-LINK-HERE)
+![Cute Pastel Cat](https://github.com/joa-an/joa-an/blob/6f7bb28ecd0595f7fbd2dc0e5f2e56aa0d394623/file_00000000da486208bbb676daf0b9dd42.png)
 
 
 <p align="center">
@@ -88,5 +88,3 @@ To become successful in the future ✨
 </p>
 
 ---
-
-![Cute Pastel Cat](PASTE-YOUR-STICKER-LINK-HERE)

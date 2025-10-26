@@ -11,7 +11,7 @@
 </p>
 
 ### 👩‍🎓 About Me  
-I'm **Johanna Olmedo**, a college student currently taking a course in **Computer Science**.  
+I'm **a college student currently** taking a course in **Computer Science**.  
 I'm always curious about how technology works and how websites or apps are created.  
 I enjoy learning **web development**, studying different **programming languages**, and discovering new things that help me understand coding better.  
 I find it interesting to explore how simple ideas can turn into useful applications through programming.  

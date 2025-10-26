@@ -100,4 +100,6 @@ To become successful in the future ✨
 ---
 
 
-![Chubby Cat Sticker](https://storage.googleapis.com/hcm-gen-images/0/23f858544e668c12.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+</p>

@@ -93,5 +93,5 @@ To become successful in the future ✨
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  <img src="https://github.com/joa-an/joa-an/blob/32a6521e78ca84876b8f001cf1a928aa7c2e8984/thank-you-sticker-thanks-sticker.gif" width="500" />
 </p>

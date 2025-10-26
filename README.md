@@ -1,3 +1,8 @@
+![Alt text](https://raw.githubusercontent.com/joa-an/joa-an/main/dare-aggie-dare-aggie-bunny.gif)
+
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/joa-an/joa-an/main/dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
 </p>
